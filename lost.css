@@ -1,0 +1,12 @@
+@charset "UTF-8";
+@import "https://monstrousdev.github.io/themes/addons/donator-tags.css";
+@import "https://monstrousdev.github.io/themes/addons/tag-animations.css";
+@font-face { font-family: 'WONDotum'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/WONDotum.woff') format('woff'); font-weight: normal; font-style: normal; }
+
+:root {
+  --mc: var(--main-color);
+}
+
+.body {
+    font-family: 'WONDotum';
+}
